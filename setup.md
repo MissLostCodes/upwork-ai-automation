@@ -12,3 +12,5 @@ Expected Output :
 Editor is now accessible via:
 http://localhost:5678
 ```
+# Workflow 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37f71f4a-a571-4ba7-9247-e0ebef82e125" />

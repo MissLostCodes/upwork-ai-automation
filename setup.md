@@ -14,3 +14,7 @@ http://localhost:5678
 ```
 # Workflow 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37f71f4a-a571-4ba7-9247-e0ebef82e125" />
+
+# Apify token setup and actor renting 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36eb79be-cb04-46c7-b6c4-65ea9555986f" />
+

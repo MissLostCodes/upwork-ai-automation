@@ -18,3 +18,7 @@ http://localhost:5678
 # Apify token setup and actor renting 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36eb79be-cb04-46c7-b6c4-65ea9555986f" />
 
+# Replace open ai with gemini to use free
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc7096f6-bf48-493e-b575-6e2ef4fd4d67" />
+
+

@@ -21,4 +21,7 @@ http://localhost:5678
 # Replace open ai with gemini to use free
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc7096f6-bf48-493e-b575-6e2ef4fd4d67" />
 
+# Gemini Response
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff3c156f-8939-4e1a-94a0-b918ed736224" />
+
 

@@ -30,5 +30,8 @@ http://localhost:5678
 # Pre-filter jobs by budget or experience level before AI scoring
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/841c6389-bea2-414d-8a5d-25bcff621fc6" />
 
+# FINAL WORKFLOW
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a614448-df90-44b2-a3b8-c7f6194aa205" />
+
 
 

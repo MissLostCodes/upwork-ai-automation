@@ -27,4 +27,8 @@ http://localhost:5678
 # Slack Message triggers for high prioroty jobs and rate limit handling updates
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c76c76b-61d4-4423-9a5e-4d0006f77e12" />
 
+# Pre-filter jobs by budget or experience level before AI scoring
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/841c6389-bea2-414d-8a5d-25bcff621fc6" />
+
+
 

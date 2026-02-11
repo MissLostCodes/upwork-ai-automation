@@ -24,4 +24,7 @@ http://localhost:5678
 # Gemini Response
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff3c156f-8939-4e1a-94a0-b918ed736224" />
 
+# Slack Message triggers for high prioroty jobs and rate limit handling updates
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c76c76b-61d4-4423-9a5e-4d0006f77e12" />
+
 
